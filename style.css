@@ -122,3 +122,124 @@ margin: 0 auto;
     margin-left: 1cm;
     letter-spacing: 2px;
 }
+@media all and (min-width:1440px)
+{
+  .th1 {
+      width: 60%;
+      position: relative;
+      left: 1.3cm;
+      
+  } 
+  .p1 {
+      width: 45%;
+      
+  }
+  .bt1 {
+      width: 7cm;
+      position: relative;
+      left: 12cm ;
+
+  }
+  .img1 {
+      width :80%;
+      margin-left: 10%;
+  }
+  .img2 {
+      margin-left: 0;
+      position: relative;
+      left: 0px;
+      display: inline;
+
+  }
+  .con {
+      display: flex;
+      margin-top: 3cm;
+      width: 80%;
+      margin-left: 10%;
+  }
+ .con1 {
+     display: flex;
+     flex-direction: column;
+ }
+ .con2 {
+     display: flex;
+     flex-direction: column;
+     margin-top: -2.4cm;
+ }
+ .imagemessage {
+     margin-left: 1cm;
+ }
+ .img2 {
+     margin-left: 1.3cm;
+ }
+ .imggt {
+     width: 50%;
+ }
+ .gtd
+ {
+     margin-top: 5cm;
+     width: 50%;
+ }
+ .grow {
+     display: flex;
+     flex-direction: row-reverse;
+ }
+ .fcimage {
+     width: 50%;
+ }
+ .fcd {
+     width: 50%;
+     margin-top: 5cm;
+ }
+ .FC {
+     display: flex;
+ }
+ .yuimage {
+     width: 50%;
+ }
+ .yud {
+     width: 50%;
+     margin-top: 5cm;
+ }
+ .YU {
+     display: flex;
+     flex-direction: row-reverse;
+ }
+ .rtbc {
+     display: flex;
+     flex-direction: column;
+     align-content: center;
+     justify-content: center;
+     
+ }
+ .rtbt {
+     width: 14cm;
+     margin-left: 11cm;
+ }
+ .rtb {
+     margin-left: 15cm;
+ }
+ .f1 {
+     width: 50%;
+ }
+ .f2 {
+     width: 50%;
+ }
+ .foot {
+     display: flex;
+     flex-direction: row-reverse;
+ }
+ .sub {
+     display : flex;
+ }
+ .fbutton {
+     margin-left: -4cm;
+     height: 2cm;
+     font-size: 1cm;
+ }
+ .femail {
+     height: 1.6cm;
+     width: 0cm;
+     padding: 0;
+ }
+}
