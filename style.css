@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+.head {
+    margin-top: 20px;
+}
+.toplogo {
+    width: 3cm;
+}
+button {
+
+    width: 70%;
+    margin-left:1cm;
+    color: white;
+    background-color:hsl(322, 100%, 66%);
+    border: none;
+    border-radius: 3cm;
+    margin-bottom: 4rem;
+    padding: 0.3cm;
+    align-self: center;
+}
+.headings{
+font-size: 1.8cm;
+margin-bottom: 5px;
+width: 70%;
+margin: 5px auto;
+
+}
+.h {
+width: 70%;
+    margin: 1px auto;
+    color: gray;
+    letter-spacing: 2px;
+}
+.grow {
+ background-color:hsl(207, 100%, 98%) ;
+ margin: 0;
+ padding: 0;
+
+
+}
+.head {
+
+    width: 88%;
+}
+.topp {
+width: 80%;
+margin: 0 auto;
+ }
+ .growtop {
+     width : 100%;
+     margin-bottom: -5px;
+ }
+ .FC {
+     margin: 4cm auto;
+     
+ }
+ .fch {
+     width 60%;
+     margin-left: 1.8cm;
+     
+     margin-top: 2cm;
+     align-content: center;
+     
+    }
+    .fcp {
+        width: 80%;
+        margin-top: 3px;
+    }
+    .gth {
+
+        width 60%;
+        margin-left: 3cm;
+        
+        margin-top: 2cm;
+        align-content: center;
+    }
+    .gtp {
+        width: 80%;
+        margin-top: 3px;
+        margin-left: 1cm;
+
+    }
+    .YU {
+        background-color: hsl(207, 100%, 98%);
+    }
+    .yuh {
+        width 60%;
+        margin-left: 3cm;
+        
+        margin-top: 2cm;
+        align-content: center;
+
+    }
+    .yup {
+        width: 80%;
+        margin-top: 3px;
+        margin-left: 1cm;
+
+    }
+    .rtb {
+        margin-top: 2cm;
+        margin-left: 2.4cm;
+        margin-bottom: 1cm;
+    }
+    .rtbt {
+        margin-left: 2cm;
+        width: 60%;
+        margin-bottom: 4cm;
+         }
+         .foot {
+             margin-bottom: 1cm;
+             background-color: hsl(192, 100%, 9%);
+         }
+.hudd {
+    display: flex;
+    margin-left: 1cm;
+    letter-spacing: 2px;
+}
