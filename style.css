@@ -7,6 +7,15 @@
     font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
 }
+.th1 {
+    margin-top: 5rem;
+    margin-left: 1cm;
+}
+.p1 {
+    margin-top: 3rem;
+    margin-bottom: 3.7rem;
+    margin-left: 1cm;
+}
 .head {
     margin-top: 20px;
 }
@@ -16,7 +25,7 @@
 button {
 
     width: 70%;
-    margin-left:1cm;
+    margin-left:1.6cm;
     color: white;
     background-color:hsl(322, 100%, 66%);
     border: none;
@@ -72,6 +81,7 @@ margin: 0 auto;
     .fcp {
         width: 80%;
         margin-top: 3px;
+    margin-left: 1cm;
     }
     .gth {
 
@@ -106,7 +116,7 @@ margin: 0 auto;
     }
     .rtb {
         margin-top: 2cm;
-        margin-left: 2.4cm;
+        margin-left: 2cm;
         margin-bottom: 1cm;
     }
     .rtbt {
@@ -123,6 +133,12 @@ margin: 0 auto;
     margin-left: 1cm;
     letter-spacing: 2px;
 }
+.fbutton {
+     width: 40%;
+     position: relative;
+     left: 4.2cm;
+     border-radius: 5px;
+}
 .logo {
     width: 0.8cm;
     height: 0.8cm;
@@ -130,6 +146,9 @@ margin: 0 auto;
 }
 .huddp {
     margin-left: 1cm;
+}
+.header {
+    padding-top: 6px;
 }
 .logos {
     margin-left: 1cm;
