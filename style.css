@@ -5,7 +5,7 @@
     width: 100%;
     margin-right: 0;
     font-family: 'Open Sans', sans-serif;
-    
+    overflow: hidden;
 }
 .head {
     margin-top: 20px;
