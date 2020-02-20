@@ -131,6 +131,9 @@ margin: 0 auto;
       position: relative;
       left: 1.3cm;
       
+  }
+  .head {
+      margin-left: 5%;
   } 
   .p1 {
       width: 45%;
