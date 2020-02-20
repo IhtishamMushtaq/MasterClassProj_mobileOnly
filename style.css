@@ -261,13 +261,13 @@ margin: 0 auto;
      border-radius: 5px;
      border-style: none;
 }
-@media all and (min-width:1024px)
+@media all and (min-width:768px)
 {
   
     .th1 {
       width: 60%;
       position: relative;
-      left: 1.3cm;
+      left: 1cm;
       
   }
   .head {
@@ -275,12 +275,17 @@ margin: 0 auto;
   } 
   .p1 {
       width: 45%;
+      position: relative;
+      left: 3.5cm;
       
   }
   .bt1 {
-      width: 7cm;
+      width: 5cm;
+      padding-left: 0.3cm;
       position: relative;
-      left: 12cm ;
+      left: 4.5cm ;
+      font-weight: normal;
+      font-size: normal;
 
   }
   .img1 {
@@ -320,7 +325,7 @@ margin: 0 auto;
  }
  .gtd
  {
-     margin-top: 5cm;
+     margin-top: 1cm;
      width: 50%;
  }
  .grow {
@@ -353,14 +358,16 @@ margin: 0 auto;
      flex-direction: column;
      align-content: center;
      justify-content: center;
+     position: relative;
+     left: 1cm;
      
  }
  .rtbt {
-     width: 14cm;
-     margin-left: 11cm;
+     width: 8cm;
+     margin-left: -2cm;
  }
  .rtb {
-     margin-left: 15cm;
+     margin-left: 7cm;
  }
  .f1 {
      width: 50%;
@@ -376,13 +383,15 @@ margin: 0 auto;
      display : flex;
  }
  .fbutton {
-     margin-left: -4cm;
-     height: 2cm;
-     font-size: 1cm;
+     margin-left: -3cm;
+     height: 1cm;
+     width: 3.2cm;
+     font-size: 18px;
  }
  .femail {
-     height: 1.6cm;
-     width: 0cm;
+     height: 1cm;
+     width: 6cm;
      padding: 0;
+     margin-left: 0.3cm;
  }
 }
