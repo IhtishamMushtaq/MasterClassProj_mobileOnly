@@ -123,6 +123,15 @@ margin: 0 auto;
     margin-left: 1cm;
     letter-spacing: 2px;
 }
+.logo {
+    width: 0.8cm;
+    height: 0.8cm;
+    padding-left: 5px;
+}
+.logos {
+    margin-left: 1cm;
+    margin-bottom: 1cm;
+}
 @media all and (min-width:1024px)
 {
   
