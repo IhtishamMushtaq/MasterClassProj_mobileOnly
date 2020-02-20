@@ -10,13 +10,22 @@
 }
 .th1 {
     margin-top: 5rem;
-    margin-left: 1cm;
+    margin-left: 20%;
+    
+    width: 87%;
+    font-weight: 700;
+    font-size: large;
 }
 .p1 {
-    margin-top: 3rem;
-    margin-bottom: 3.7rem;
-    margin-left: 1cm;
-    width: 60%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    line-height: 18px;
+    margin-left: 15%;
+    width: 93%;
+    font-weight: lighter;
+    font-size: 11px;
+    word-spacing: 2px;
+
 }
 .head {
     margin-top: 20px;
@@ -37,8 +46,29 @@ button {
     padding: 0.3cm;
     align-self: center;
 }
+.img2 {
+    width: 1cm;
+     height:0.8cm ;
+     position: relative;
+     left: 1cm;
+}
+.imggt {
+    width: 90%;
+
+}
+.imagemessage {
+    width: 1cm; 
+    height:0.8cm ; 
+    position: relative; 
+    left: 1cm;
+     margin-top: 6rem;
+    }
+    .fcimage {
+        width: 90%;
+        margin-left: 5%;
+    }
 .headings{
-font-size: 1.8cm;
+font-size: 1.4cm;
 margin-bottom: 5px;
 width: 70%;
 margin: 5px auto;
@@ -49,6 +79,9 @@ width: 70%;
     margin: 1px auto;
     color: gray;
     letter-spacing: 2px;
+    font-weight: lighter;
+    font-size: small;
+    margin-left: 1.5cm;
 }
 .grow {
  background-color:hsl(207, 100%, 98%) ;
@@ -71,76 +104,129 @@ margin: 0 auto;
  }
  .FC {
      margin: 4cm auto;
+     margin-bottom: 2cm;
      
  }
  .fch {
-     width: 60%;
-     margin-left: 2.3cm;
-     
-     margin-top: 2cm;
-     align-content: center;
+    width : 90%;
+    margin-left: 1.3cm ;
+    font-weight: bold;
+    font-size: larger;
+    
+    margin-top: 2cm;
+    align-content: center;
      
     }
     .fcp {
-        width: 80%;
-        margin-top: 3px;
-    margin-left: 1cm;
+        width: 85%;
+        align-content: center;
+        justify-content: center;
+        margin-top: 5px;
+        margin-left: 0.7cm;
+        font-weight: 1px;
+        font-weight: 500;
+        font-size: 12px;
+        margin-bottom: 1cm;
     }
     .gth {
 
         width : 60%;
-        margin-left: 2.6cm;
+        margin-left: 2cm;
         
         margin-top: 2cm;
         align-content: center;
     }
     .gtp {
-        width: 80%;
-        margin-top: 3px;
+        width: 85%;
+        align-content: center;
+        justify-content: center;
+        margin-top: 5px;
         margin-left: 1cm;
+        font-weight: 1px;
+        font-weight: 500;
+        font-size: 12px;
+        margin-bottom: 1cm;
+    
 
     }
     .YU {
         background-color: hsl(207, 100%, 98%);
     }
     .yuh {
-        width : 60%;
-        margin-left: 2.8cm;
+        width : 90%;
+        margin-left: 2.5cm ;
+        font-weight: bold;
+        font-size: larger;
         
         margin-top: 2cm;
         align-content: center;
+        margin-bottom: 10px;
 
     }
     .yup {
-        width: 80%;
-        margin-top: 3px;
-        margin-left: 1cm;
+        width: 85%;
+        align-content: center;
+        justify-content: center;
+        margin-top: 5px;
+        margin-left: 0.7cm;
+        font-weight: 1px;
+        font-weight: 500;
+        font-size: 12px;
+        margin-bottom: 1cm;
+    
 
+    }
+    .yud {
+        margin-bottom: 1.1cm;
     }
     .rtb {
         margin-top: 2cm;
         margin-left: 2cm;
         margin-bottom: 1cm;
+        font-weight: bold;
+        font-size: large;
+        line-height: 30px;
     }
     .rtbt {
         margin-left: 2cm;
-        width: 60%;
+        width: 55%;
         margin-bottom: 4cm;
-         }
+     font-weight: bold;
+     font-size: x-small;    
+    }
          .foot {
              margin-bottom: 1cm;
+             padding-top: 1cm;
              background-color: hsl(192, 100%, 9%);
          }
+         .footp {
+            margin-bottom:0px;
+            color: white;
+             width: 90%; 
+            margin:0.8cm auto;
+            font-weight:normal;
+            font-size: 11px;
+            letter-spacing:1px;
+            word-spacing: 2px;
+            margin-left: 5%;
+        }
 .hudd {
     display: flex;
-    margin-left: 1cm;
+    margin-left: 16px;
     letter-spacing: 2px;
+
 }
 .fbutton {
      width: 40%;
      position: relative;
-     left: 3.28cm;
+     left: 2.9cm;
+     font-size: small;
+     font-weight: normal;
+     letter-spacing: 2px;
      border-radius: 5px;
+     padding: 0px auto;
+     padding-top: 6px;
+     padding-bottom: 6px;
 }
 .logo {
     width: 0.8cm;
@@ -148,14 +234,32 @@ margin: 0 auto;
     padding-left: 5px;
 }
 .huddp {
-    margin-left: 1cm;
+    margin-bottom:0px;
+            color: white;
+             width: 90%; 
+            margin:0.8cm auto;
+            font-weight:normal;
+            font-size: 11px;
+            letter-spacing:1px;
+            word-spacing: 2px;
+            margin-left: 5%;
 }
 .header {
     padding-top: 8px;
 }
 .logos {
-    margin-left: 1cm;
+    margin-left: 13px;
     margin-bottom: 1cm;
+}
+.femail {
+    margin-bottom:0px;
+    color: white;
+     width: 85%;
+     margin-left: 8%;
+     margin-bottom: 8px;
+     padding: 5px;
+     border-radius: 5px;
+     border-style: none;
 }
 @media all and (min-width:1024px)
 {
