@@ -23,6 +23,7 @@
 }
 .toplogo {
     width: 3cm;
+    padding-left: 2px;
 }
 button {
 
@@ -150,7 +151,7 @@ margin: 0 auto;
     margin-left: 1cm;
 }
 .header {
-    padding-top: 6px;
+    padding-top: 8px;
 }
 .logos {
     margin-left: 1cm;
