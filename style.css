@@ -5,6 +5,7 @@
     width: 100%;
     margin-right: 0;
     font-family: 'Open Sans', sans-serif;
+    background-color: red;
 }
 .head {
     margin-top: 20px;
@@ -61,7 +62,7 @@ margin: 0 auto;
      
  }
  .fch {
-     width 60%;
+     width: 60%;
      margin-left: 1.8cm;
      
      margin-top: 2cm;
@@ -74,7 +75,7 @@ margin: 0 auto;
     }
     .gth {
 
-        width 60%;
+        width : 60%;
         margin-left: 3cm;
         
         margin-top: 2cm;
@@ -90,7 +91,7 @@ margin: 0 auto;
         background-color: hsl(207, 100%, 98%);
     }
     .yuh {
-        width 60%;
+        width : 60%;
         margin-left: 3cm;
         
         margin-top: 2cm;
