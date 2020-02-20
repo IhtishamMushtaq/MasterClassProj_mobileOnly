@@ -125,10 +125,7 @@ margin: 0 auto;
 }
 @media all and (min-width:1024px)
 {
-  * {
-padding-left: 0.7cm;
-
-  }
+  
     .th1 {
       width: 60%;
       position: relative;
