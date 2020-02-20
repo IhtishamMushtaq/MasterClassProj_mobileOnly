@@ -125,7 +125,11 @@ margin: 0 auto;
 }
 @media all and (min-width:1024px)
 {
-  .th1 {
+  html {
+margin-left: 10px;
+
+  }
+    .th1 {
       width: 60%;
       position: relative;
       left: 1.3cm;
