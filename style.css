@@ -74,7 +74,7 @@ margin: 0 auto;
  }
  .fch {
      width: 60%;
-     margin-left: 2cm;
+     margin-left: 2.3cm;
      
      margin-top: 2cm;
      align-content: center;
@@ -104,7 +104,7 @@ margin: 0 auto;
     }
     .yuh {
         width : 60%;
-        margin-left: 2.6cm;
+        margin-left: 2.8cm;
         
         margin-top: 2cm;
         align-content: center;
@@ -138,7 +138,7 @@ margin: 0 auto;
 .fbutton {
      width: 40%;
      position: relative;
-     left: 2cm;
+     left: 2.8cm;
      border-radius: 5px;
 }
 .logo {
