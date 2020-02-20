@@ -15,6 +15,7 @@
     margin-top: 3rem;
     margin-bottom: 3.7rem;
     margin-left: 1cm;
+    width: 60%;
 }
 .head {
     margin-top: 20px;
@@ -72,7 +73,7 @@ margin: 0 auto;
  }
  .fch {
      width: 60%;
-     margin-left: 1.8cm;
+     margin-left: 2cm;
      
      margin-top: 2cm;
      align-content: center;
@@ -86,7 +87,7 @@ margin: 0 auto;
     .gth {
 
         width : 60%;
-        margin-left: 3cm;
+        margin-left: 2.6cm;
         
         margin-top: 2cm;
         align-content: center;
@@ -102,7 +103,7 @@ margin: 0 auto;
     }
     .yuh {
         width : 60%;
-        margin-left: 3cm;
+        margin-left: 2.6cm;
         
         margin-top: 2cm;
         align-content: center;
@@ -136,7 +137,7 @@ margin: 0 auto;
 .fbutton {
      width: 40%;
      position: relative;
-     left: 4.2cm;
+     left: 2cm;
      border-radius: 5px;
 }
 .logo {
